@@ -113,7 +113,10 @@
     <ClCompile Include="main.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="Assembler.h" />
     <ClInclude Include="CSkillReuseDelay.h" />
+    <ClInclude Include="FormatChecker.h" />
+    <ClInclude Include="TimeConverter.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

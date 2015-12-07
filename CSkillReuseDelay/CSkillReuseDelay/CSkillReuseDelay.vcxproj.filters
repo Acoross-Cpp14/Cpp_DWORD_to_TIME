@@ -23,5 +23,14 @@
     <ClInclude Include="CSkillReuseDelay.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
+    <ClInclude Include="Assembler.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="TimeConverter.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="FormatChecker.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
